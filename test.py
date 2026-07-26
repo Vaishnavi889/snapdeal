@@ -1,3 +1,4 @@
 this is testing file
 git log demo
-stash example
+stash example 2
+cherry pick demo
