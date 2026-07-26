@@ -5,3 +5,4 @@ testing merge conflicts
 want to take latest code
 fetch test
 hellooo world
+your stage for conflicts
