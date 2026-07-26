@@ -5,4 +5,7 @@ testing merge conflicts
 want to take latest code
 fetch test
 hellooo world
-Testng merge conflicts
+Testng merge conflict
+your stage for conflicts
+Database Connection 1
+
